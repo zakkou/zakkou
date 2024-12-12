@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **- Machine Learning Operations (MLOps) - Productionizing Machine Learning workflows - Tools like TensorFlow, PyTorch, FastAPI, and Docker**
 
-- 📫 How to reach me ****LinkedIn**: [Hamdi](https://linkedin.com/in/hamdi**
+- 📫 How to reach me ****LinkedIn**: [Hamdi](https://linkedin.com/in/hamdi)**
 
 - ⚡ Fun fact **I have an exceptional memory and have won awards in cultural competitions, showcasing my broad cultural knowledge and quick learning ability.**
 
