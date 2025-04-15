@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamdi</h1>
-<h3 align="center">A passionate Software Engineer specializing in MLOps. With expertise in Machine Learning, Deep Learning, and Statistical Modeling, I aim to deliver robust and scalable solutions. I'm also an avid Cloud DevOps enthusiast, combining technical skills with practical problem-solving.</h3>
+<h3 align="center">As a dedicated Software Engineer with a focus on MLOps, I leverage expertise in Machine Learning, Deep Learning, and Statistical Modeling to design resilient and scalable solutions. Passionate about Cloud DevOps, I blend technical proficiency with hands-on problem-solving to drive impactful results.
+
+This version maintains your core strengths while varying structure and vocabulary for freshness. Let me know if you'd like further adjustments!</h3>
 
 - 🔭 I’m currently working on **FastAPI with React Integration**
 
